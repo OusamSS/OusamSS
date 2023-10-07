@@ -5,7 +5,7 @@
 - 🎓 Bachelor's degree in Engineering 📚
 - 🎓 Master's degree in Data Science 📊
 - 🔍 Aspiring Data Analyst 📈
-- 📚 Self-taught in Data Analytics, Python, Machine Learning & Statistics 🧠
+- 📚 Self in GCP, Python, Power BI, Tableau, and Machine Learning & Statistics 🧠
 - 💼 Actively seeking a Data Analyst position 🚀
 - 📧 Reach me at [LinkedIn](https://www.linkedin.com/in/ousam-salah/) or ousam_salah@outlook.fr 📫
 - 🍔 Fun Fact: I'm a fan of Bob's Burgers! 🍔
