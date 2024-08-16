@@ -5,7 +5,7 @@
 - 🎓 Bachelor's degree in Engineering 📚
 - 🎓 Master's degree in Data Science 📊
 - 🔍 Data Analyst / Analytics Engineer 📈
-- 📚 GCP, BigQuery, DBT, Looker, Python, Power BI, Tableau, and Machine Learning & Statistics 🧠
+- 📚 GCP, BigQuery, DBT, Looker, Python, Power BI, Tableau, Statistics 🧠
 - 📧 Reach me at [LinkedIn](https://www.linkedin.com/in/ousam-salah/) or ousam_salah@outlook.fr 📫
 
 ### What You'll Find Here
