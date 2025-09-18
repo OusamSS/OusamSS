@@ -2,13 +2,11 @@
 
 ### About Me
 - 🌍 Based in EU
-- 🎓 Bachelor's degree in Engineering 📚
-- 🎓 Master's degree in Data Science 📊
 - 🔍 Data Analyst / Data Engineer 📈
-- 📚 GCP, SQL, DBT, Looker, Python, Power BI, Looker, Statistics 🧠
+- 📚 GCP, SQL, DBT, Looker, Python, Spark,Power BI, Looker, BigQuery 🧠
 
 ### What You'll Find Here
-Welcome to my GitHub repository! Here, you'll discover a collection of projects I've undertaken as part of my self-taught journey in the exciting world of data analytics. I'm passionate about leveraging data to derive insights and solve real-world problems. My projects encompass various aspects of data analysis, Python programming, data engineering, and statistical analysis.
+Welcome to my GitHub repository! Here, you'll discover a collection of projects I've undertaken as part of my self-taught journey in the exciting world of data analytics. I'm passionate about leveraging data to derive insights and solve real-world problems. My projects encompass various aspects of data analysis, Python programming, data engineering.
 
 ### Let's Connect
 I'm always eager to connect with fellow data enthusiasts, professionals, and potential collaborators. Feel free to reach out via LinkedIn or drop me an email if you'd like to discuss data, share ideas, or explore opportunities together.
